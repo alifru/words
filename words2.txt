@@ -19990,3 +19990,8 @@ householder
 plotting	
 yan	
 succeeding	
+taalo
+taautus
+taaffle
+naans
+naan
